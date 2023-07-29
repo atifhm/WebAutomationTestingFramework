@@ -8,7 +8,7 @@ Advanced Web Automation Framework for building testcases and generating intresti
 
 ## Authors
 
-- [@HassanAbbas7357](https://github.com/HassanAbbas7357)
+- [@atifhyder](https://github.com/atifhyder)
 
 
 
