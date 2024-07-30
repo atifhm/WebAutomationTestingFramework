@@ -8,7 +8,7 @@ Advanced Web Automation Framework for building testcases and generating intresti
 
 ## Authors
 
-- [@atifhyder](https://github.com/atifhyder)
+Atif Hyder
 
 
 
